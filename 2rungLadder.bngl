@@ -14,8 +14,8 @@ end molecule types
 
 begin parameters
 Lo 100 #initial concentration of fully bonded ladder
-ka 0.01 #rate of bond formation
-kd 0.01 #rate of bond dissociation
+ka 0.01 #rate of bond formation, notated in paper as k-D
+kd 0.01 #rate of bond dissociation, notated in paper as k+D
 end parameters
 
 begin seed species
