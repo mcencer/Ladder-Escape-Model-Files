@@ -1,3 +1,6 @@
+#Quantifying error correction through a rule-based model of strand escape from an [n]-rung ladder
+#Authors: Morgan M. Cencer, Andrew J. Greenlee, Jeffrey S. Moore
+
 #Model of 6 rung ladder escape
 #Design rules: 1) ladders are made of two identical sides, connected by three rungs
 #2) rungs are chemospecific, i.e. rungs are a-a, b-b, c-c and never a-b or a-c etc
@@ -14,8 +17,8 @@ end molecule types
 
 begin parameters
 Lo 100 #initial concentration of seed species
-ka 0.01 #rate of bond formation, notated in paper as k-D
-kd 0.01 #rate of bond dissociation, notated in paper as k+D
+ka 0.01 #rate of bond formation
+kd 0.01 #rate of bond dissociation
 end parameters
 
 begin seed species
