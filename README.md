@@ -5,4 +5,3 @@ These model files are free to use.
 
 Please cite this paper if used: **full citation will go here**
 
-**Do I need to have some sort of copyright statement???**
