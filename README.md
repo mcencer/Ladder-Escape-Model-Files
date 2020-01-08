@@ -3,5 +3,5 @@ This repository contains all the model files used for the paper <a href="https:/
 These models are based on <a href="https://www.csb.pitt.edu/Faculty/Faeder/?page_id=409">BioNetGen</a>.
 These model files are free to use. 
 
-Please cite this paper if used: Cencer, M. M.; Greenlee, A. J.; Moore, J. S. Quantifying Error Correction through a Rule-Based Model of Strand Escape from an [n]-Rung Ladder. *J. Am. Chem. Soc.* Article ASAP DOI: 10.1021/jacs.9b08958
+Please cite this paper if used: Cencer, M. M.; Greenlee, A. J.; Moore, J. S. Quantifying Error Correction through a Rule-Based Model of Strand Escape from an [n]-Rung Ladder. *J. Am. Chem. Soc.* 2020, 142, 1, 162-168 DOI: 10.1021/jacs.9b08958
 
